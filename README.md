@@ -7,6 +7,8 @@ La solicitud se realiza utilizando el método fetch de JavaScript y los resultad
 
 El código es adecuado para un repositorio de GitHub que se centre en la integración de solicitudes de API en una página web y la manipulación dinámica de elementos HTML.
 
+## URL: https://juancitopena.github.io/Pizza-Place-JPV/
+
 ## CAPTURAS DE PANTALLA:
 
 ![](PIZZA3.png)
