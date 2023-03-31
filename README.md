@@ -13,7 +13,7 @@ El código es adecuado para un repositorio de GitHub que se centre en la integra
 
 ## CAPTURAS DE PANTALLA:
 
-![](PIZZA3.png)
+![](PIZZA1.png)
 
 
 ## CAPTURAS DE PANTALLA:
